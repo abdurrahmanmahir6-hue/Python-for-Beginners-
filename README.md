@@ -1,4 +1,7 @@
-# Python-for-Beginners-
+# Python-for-Beginners
+A structured, beginner-friendly guide to learning Python, from basic syntax to advanced Python features.
+
+### Let's Start
 Here, we will divide Python into a few sections. For example:
 - Basic syntax
 - Data type
