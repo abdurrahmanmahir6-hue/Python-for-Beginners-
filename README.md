@@ -22,7 +22,6 @@ Python-for-beginners/
 	|	|-- print and input
 	|	|-- Variable
 	|	|-- Comments
-	|	|-- Indentation 
 	|	|-- Keywords
 	|	|-- Statements
 	|	|-- Line continuation
